@@ -1,4 +1,4 @@
-# xplorer-main
+# xplorer main
 
 ## Overview
 Next.js application. Run with: npm install then npm run dev
